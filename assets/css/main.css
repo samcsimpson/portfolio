@@ -3219,7 +3219,7 @@ input, select, textarea {
 
 		.row {
 			display: flex;
-			flex-direction: row-reverse;
+			flex-direction: column-reverse;
 		}
 
 	}
