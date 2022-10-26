@@ -1514,10 +1514,6 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 480px) {
-			.inner-row {
-				display: flex;
-				flex-direction: column-reverse;
-			}
 			.row {
 				display: flex;
 				flex-wrap: wrap;
