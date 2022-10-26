@@ -1517,6 +1517,7 @@ input, select, textarea {
 
 			.row {
 				display: flex;
+				flex-direction: column-reverse;
 				flex-wrap: wrap;
 				box-sizing: border-box;
 				align-items: stretch;
