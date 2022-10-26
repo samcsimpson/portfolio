@@ -3217,4 +3217,9 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
+		.row {
+			display: flex;
+			flex-direction: row-reverse;
+		}
+
 	}
